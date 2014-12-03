@@ -19,7 +19,6 @@ article{
 	}
 	.entry-content{
 		line-height: 2;
-		text-align: justify;
 		a{
 			&:hover{
 				text-decoration: underline;
@@ -137,5 +136,4 @@ article{
 }
 .share{
 	padding: 15px 0;
-	@include border-shadow();
 }
